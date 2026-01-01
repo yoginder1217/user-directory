@@ -55,4 +55,5 @@ export const { handlers, auth } = NextAuth({
   secret: process.env.NEXTAUTH_SECRET || "development-secret-abc123xyz"
 });
 
-export const { GET, POST } = handlers;
+export const GET = handlers.GET;
+export const POST = handlers.POST;
