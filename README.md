@@ -73,14 +73,6 @@ user-directory/
 - User activity logs
 - Permission-based access control
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork this project and submit pull requests for any improvements.
-
 ## Contact
 
 For questions or feedback, feel free to reach out or open an issue on GitHub.
